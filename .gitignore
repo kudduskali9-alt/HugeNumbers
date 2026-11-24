@@ -1,0 +1,8 @@
+/.lake/
+/lake-packages/
+*.olean
+*.ilean
+*.trace
+*.log
+Thumbs.db
+.DS_Store
